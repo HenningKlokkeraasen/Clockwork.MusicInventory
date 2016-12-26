@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clockwork.MusicInventory.Web", "Clockwork.MusicInventory.Web\Clockwork.MusicInventory.Web.csproj", "{2BF637B6-9297-4140-9A7F-D6FD57E24B5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{C2446302-D612-4D62-8C88-E08A20EC1C0D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BF637B6-9297-4140-9A7F-D6FD57E24B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF637B6-9297-4140-9A7F-D6FD57E24B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF637B6-9297-4140-9A7F-D6FD57E24B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF637B6-9297-4140-9A7F-D6FD57E24B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
