@@ -3,6 +3,8 @@ Clockwork.MusicInventory.Web/fonts/glyphicons*
 Clockwork.MusicInventory.Web/Scripts/bootstrap*
 Clockwork.MusicInventory.Web/Scripts/jquery*
 
+connectionStrings.config
+
 [Bb]in/
 [Oo]bj/
 
